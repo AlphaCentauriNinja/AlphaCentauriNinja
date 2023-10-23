@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T10:15:33.306Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="Kr_4j0XOO3sn3Cx1clVt" version="22.0.6" type="github">
+  <diagram name="Page-1" id="9Jj39A-vLBDV_zgjqW72">
+    <mxGraphModel dx="2074" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="36" y="410" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="93" y="570" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-5" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Test_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="90" y="740" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="32HZcjTVBWIoo1kGLzFE-6" target="32HZcjTVBWIoo1kGLzFE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-6" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="204" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="32HZcjTVBWIoo1kGLzFE-10" target="32HZcjTVBWIoo1kGLzFE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/mimetypes/Schedule_File.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="301" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="465" width="204" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.database;" vertex="1" parent="32HZcjTVBWIoo1kGLzFE-13">
+          <mxGeometry x="64.5" y="22.5" width="75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-8" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="32HZcjTVBWIoo1kGLzFE-13">
+          <mxGeometry width="204" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="120" width="204" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Grafana.svg;" vertex="1" parent="32HZcjTVBWIoo1kGLzFE-14">
+          <mxGeometry x="27.610000000000014" y="25" width="128.79" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-7" value="" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="32HZcjTVBWIoo1kGLzFE-14">
+          <mxGeometry width="204" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="32HZcjTVBWIoo1kGLzFE-8" target="32HZcjTVBWIoo1kGLzFE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-17" value="AZURE DEVOPS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="31" y="350" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-18" value="&lt;strong&gt;Deployment frequency (DF)&lt;/strong&gt;: how often an organization successfully releases a product to the users or deploys it to production." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="630" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="32HZcjTVBWIoo1kGLzFE-19" value="&lt;h2 class=&quot;wp-block-heading&quot; id=&quot;quality&quot;&gt;Quality&lt;/h2&gt;&#xa;&#xa;&#xa;&#xa;&lt;p&gt;Quality implies different things to different people. While some &#xa;teams emphasize adhering to style rules, others might be more concerned &#xa;with security risks or maintaining an enjoyable user experience. What &#xa;matters is that the team is in agreement regarding what quality entails &#xa;for them.&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&lt;p&gt;We can use a mix of parameters to estimate the quality of the code. &#xa;That which does not meet a predetermined quality bar should cause the CI&#xa; pipeline to fail. Some valuable indicators are:&lt;/p&gt;&#xa;&#xa;&#xa;&#xa;&lt;ul&gt;&lt;li&gt;Number of vulnerabilities.&lt;/li&gt;&lt;li&gt;Violation of style guidelines.&lt;/li&gt;&lt;li&gt;Code coverage.&lt;/li&gt;&lt;li&gt;Number of stale branches.&lt;/li&gt;&lt;li&gt;Cyclomatic complexity.&lt;/li&gt;&lt;li&gt;Broken&#xa; architectural constraints. For instance, making sure that code in one &#xa;module does not reference classes in another module.&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="40" width="430" height="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
