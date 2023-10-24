@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T09:37:49.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="t0OmwKiuCBiS3Wf5PkrI" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T09:38:18.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="BLdO-3LuE_kmSclkCgAV" version="22.0.6" type="github">
   <diagram name="Page-1" id="9Jj39A-vLBDV_zgjqW72">
     <mxGraphModel dx="2074" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="4ajutxzTj7ZSBaIu2VPT-4" value="SAST / DAST ???" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10.5" y="170" width="204" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4ajutxzTj7ZSBaIu2VPT-7" value="Code Quality" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4ajutxzTj7ZSBaIu2VPT-7" value="Vulnerabilities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221" y="230" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4ajutxzTj7ZSBaIu2VPT-10" value="" style="group" vertex="1" connectable="0" parent="1">
